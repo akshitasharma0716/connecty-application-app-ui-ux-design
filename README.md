@@ -1,4 +1,4 @@
-# connecty-application-app-ui-ux-design
+
 # 🔗 Connecty – Social Networking Application (UI/UX Design + Prototype)
 
 **Connecty** is a modern **social networking app** concept designed in **Figma**, aimed at connecting people through a clean and engaging interface.  
